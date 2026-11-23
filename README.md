@@ -1,2 +1,3 @@
-# HossamSharaf-Database-Assignment-2-Creating-Tables
-Assignment repo for assignment/1-12 (Database Assignment 2 : Creating Tables)
+## Details
+# Name:Hossam Shawky Sharaf Eldein
+# GROUP : 3
